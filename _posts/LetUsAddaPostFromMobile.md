@@ -1,13 +1,13 @@
 ---
 title: 'Let us add a post from Github on my mobile ...'
-excerpt: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Praesent elementum facilisis leo vel fringilla est ullamcorper eget. At imperdiet dui accumsan sit amet nulla facilisi morbi tempus.'
-coverImage: '/assets/blog/dynamic-routing/cover.jpg'
+excerpt: 'Voilà a post from Github on Mobile!!!'
+coverImage: '/assets/blog/philipp-pilz-ByIuHYRmokg-unsplash.jpg'
 date: '2020-07-01T05:35:07.322Z'
 author:
-  name: JJ Kasper
-  picture: '/assets/blog/authors/jj.jpeg'
+  name: Benoit
+  picture: '/assets/blog/authors/benouzef.jpeg'
 ogImage:
-  url: '/assets/blog/dynamic-routing/cover.jpg'
+  url: '/assets/blog/philipp-pilz-ByIuHYRmokg-unsplash.jpg'
 ---
 
 
@@ -19,3 +19,5 @@ Thanks to **Markdown, Next and Vercel**...
 
 From now on I need to put some images in my posts 
 I will choose some beautiful (and free!) images from nature and landscapes all aronde the world
+
+<span>Photo by <a href="https://unsplash.com/@buchstabenhausen?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Philipp Pilz</a> on <a href="https://unsplash.com/t/nature?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
