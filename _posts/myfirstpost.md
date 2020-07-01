@@ -5,7 +5,7 @@ coverImage: '/assets/blog/benjamin-child-6msS8vT5pzw-unsplash.jpg'
 date: '2020-06-30T05:35:07.322Z'
 author:
   name: Benoit
-  picture: '/assets/blog/authors/Benouzef.jpeg'
+  picture: '/assets/blog/authors/benouzef.jpeg'
 ogImage:
   url: '/assets/blog/benjamin-child-6msS8vT5pzw-unsplash.jpg'
 ---

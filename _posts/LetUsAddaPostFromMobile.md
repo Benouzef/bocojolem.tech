@@ -5,7 +5,7 @@ coverImage: '/assets/blog/philipp-pilz-ByIuHYRmokg-unsplash.jpg'
 date: '2020-07-01T05:35:07.322Z'
 author:
   name: Benoit
-  picture: '/assets/blog/authors/Benouzef.jpeg'
+  picture: '/assets/blog/authors/benouzef.jpeg'
 ogImage:
   url: '/assets/blog/philipp-pilz-ByIuHYRmokg-unsplash.jpg'
 ---
