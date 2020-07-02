@@ -18,14 +18,19 @@ I have to have a deeper and second look though but this seems to be the solution
 
 From what I understood, I should structure things this way 
 
-
+```
 * pages
     * categories 
-        * index.js  // to show a list of categories
+        * index.js  // A 
         * [categoryId]
             * articles
-                * index.js // to show list of articles for a specific category
+                * index.js // B 
                 * [articleId].js
+```
+
+A => to show a list of categories
+
+B => to show list of articles for a specific category
 
 I "just" need to do it now...
 
