@@ -1,14 +1,14 @@
 ---
 title: 'A way to add categories...'
 excerpt: 'How to add categories on a Next blog'
-coverImage: '/assets/blog/cozies-tone-BO1JWLOUJVc-unsplash.jpg'
+coverImage: '/assets/blog/ekrem-osmanoglu-9OfbNJJl8XY-unsplash.jpg'
 date: '2020-07-02T12:51:52Z'
 category: 'Nextjs'
 author:
   name: Benoit
   picture: '/assets/blog/authors/benouzef.jpeg'
 ogImage:
-  url: '/assets/blog/cozies-tone-BO1JWLOUJVc-unsplash.jpg'
+  url: '/assets/blog/ekrem-osmanoglu-9OfbNJJl8XY-unsplash.jpg'
 ---
 
 
@@ -32,7 +32,9 @@ A => to show a list of categories
 
 B => to show list of articles for a specific category
 
-I "just" need to do it now...
+I "just" need to do it now... and also do a bit of styling of the blog...
 
-<span>Photo by <a href="https://unsplash.com/@coziestone?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Cozies Tone</a> on <a href="https://unsplash.com/t/nature?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
+Definitely using landscape images is a good start!
+
+<span>Photo by <a href="https://unsplash.com/@konevi?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">ekrem osmanoglu</a> on <a href="https://unsplash.com/t/nature?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
 
