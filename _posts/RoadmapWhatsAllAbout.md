@@ -19,7 +19,7 @@ It's merely a problem of drive and leadership: put someone in charge is the firs
 ## A Roadmap : A "TODO" list at a strategic level
 As simple as that, you can't imagine simpler: what do we want to achieve and when?
 Then the devil is in the details because it's not a "static" view but a "dynamic" / living document that you have to deal with.
-Usually, you put committments in your "TODO" list and then list "candidates" topics : similarly to how you would deal with your travel destinations you dream of...
+Usually, you put committments in your **"TODO"** list and then list "candidates" topics : similarly to how you would deal with your travel destinations you dream of...
 The thing is sometimes you mix different "very big" things and you don't want to deal with details : you want to visit Mexico but you don't want to mess with choosing between Tikal or Teotihuacan when planning your "dreams"
 
 ## A Roadmap : balancing between visibility and stability
