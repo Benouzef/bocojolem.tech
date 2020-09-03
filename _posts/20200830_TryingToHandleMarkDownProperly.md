@@ -11,7 +11,7 @@ ogImage:
   url: '/assets/blog/erik-ringsmuth-OUvmngJoaSY-unsplash.jpg'
 ---
 *Italic* or _Italic_
-**Bold** or *Bold*
+**Bold** or __Bold__
 # Heading 1
 or 
 Heading 1
