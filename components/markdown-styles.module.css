@@ -6,10 +6,16 @@
   @apply text-blue-600 underline;
 }
 
-.markdown p,
-.markdown ul,
-.markdown ol {
+.markdown p {
   @apply my-6;
+}
+
+.markdown ol {
+  @apply my-6 list-decimal;
+}
+
+.markdown ul {
+  @apply my-6 list-disc;
 }
 
 .markdown blockquote {
