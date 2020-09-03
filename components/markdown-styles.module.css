@@ -15,6 +15,7 @@
 .markdown blockquote {
   @apply my-6 border-l-4 border-grey-light pl-4 italic;
 }
+
 .markdown h1 {
   @apply text-4xl mt-16 mb-4 leading-snug;
 }
