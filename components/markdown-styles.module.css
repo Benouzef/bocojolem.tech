@@ -2,7 +2,7 @@
   @apply text-lg leading-relaxed;
 }
 
-a {
+.markdown a {
   @apply text-blue-600 underline;
 }
 
