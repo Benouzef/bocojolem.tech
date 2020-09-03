@@ -13,7 +13,7 @@
 }
 
 .markdown blockquote {
-  @apply my-6 border-l-4 border-grey-light pl-4 italic;
+  @apply my-6 border-l-4 pl-4 italic;
 }
 
 .markdown h1 {
