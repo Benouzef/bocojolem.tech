@@ -19,7 +19,7 @@
 }
 
 .markdown blockquote {
-  @apply my-6 border-l-4 pl-4 italic;
+  @apply my-6 border-l-4 pl-4 italic bg-grey-lighter;
 }
 
 .markdown h1 {
@@ -32,4 +32,8 @@
 
 .markdown h3 {
   @apply text-2xl mt-8 mb-4 leading-snug;
+}
+
+.markdown code {
+    @apply font-mono text-sm inline bg-grey-lighter px-1;
 }
