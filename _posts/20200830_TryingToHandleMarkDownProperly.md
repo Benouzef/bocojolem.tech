@@ -20,9 +20,9 @@ Heading 1
 ## Heading 2
 ### Heading 3
 
-[Link](http://a.com)
+[Link](http://www.apple.com)
 
-![Image](http://url/a.png)
+![Image](https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/113/2017/06/Microsoft-logo_rgb_c-gray-768x344.png)
 
 > Blockquote
 
