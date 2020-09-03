@@ -2,11 +2,28 @@
   @apply text-lg leading-relaxed;
 }
 
-.markdown p,
-.markdown ul,
-.markdown ol,
-.markdown blockquote {
+.markdown a {
+  @apply text-blue-600 underline;
+}
+
+.markdown p {
   @apply my-6;
+}
+
+.markdown ol {
+  @apply my-6 list-decimal;
+}
+
+.markdown ul {
+  @apply my-6 list-disc;
+}
+
+.markdown blockquote {
+  @apply my-6 border-l-4 pl-4 italic .bg-gray-100;
+}
+
+.markdown h1 {
+  @apply text-4xl mt-16 mb-4 leading-snug;
 }
 
 .markdown h2 {
@@ -15,4 +32,8 @@
 
 .markdown h3 {
   @apply text-2xl mt-8 mb-4 leading-snug;
+}
+
+.markdown code {
+    @apply font-mono text-sm inline px-1 .bg-gray-300;
 }
