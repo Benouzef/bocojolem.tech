@@ -1,7 +1,7 @@
 ---
 title: 'Roadmap : A living matter and concern'
 excerpt: 'Building a roadmap is more than just an overnight effort'
-coverImage: '/assets/blog/assets/blog/koes-nadi-1J0Cbs_A9lA-unsplash.jpg'
+coverImage: '/assets/blog/koes-nadi-1J0Cbs_A9lA-unsplash.jpg'
 date: '2020-09-09T08:39:52Z'
 category: 'Roadmap'
 author:
