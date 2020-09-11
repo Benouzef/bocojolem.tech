@@ -36,9 +36,9 @@ I definitely recommend this approach [WSJF](https://www.scaledagileframework.com
 
 ## Next steps
 I realize this post is already too long - or even boring :) so I will continue with following topics in other posts
-A living matter and concern
-Roadmap governance - will need a few parts :)
-Product Committee - What for?
+* A living matter and concern
+* Roadmap governance - will need a few parts :)
+* Product Committee - What for?
 
 
 <span>Photo by <a href="https://unsplash.com/@foxxmd?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Matt Duncan</a> on <a href="https://unsplash.com/s/photos/roadmap?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
